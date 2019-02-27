@@ -15,6 +15,7 @@
 		F853B26E22268A4F0071F675 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F853B26C22268A4F0071F675 /* LaunchScreen.storyboard */; };
 		F853B27922268A500071F675 /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F853B27822268A500071F675 /* Cat_YearsTests.swift */; };
 		F853B28422268A500071F675 /* Cat_YearsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F853B28322268A500071F675 /* Cat_YearsUITests.swift */; };
+		F853B29222268AFD0071F675 /* cat_bitcoins.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F853B29122268AFC0071F675 /* cat_bitcoins.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F853B27F22268A500071F675 /* Cat YearsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F853B28322268A500071F675 /* Cat_YearsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsUITests.swift; sourceTree = "<group>"; };
 		F853B28522268A500071F675 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F853B29122268AFC0071F675 /* cat_bitcoins.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat_bitcoins.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F853B26C22268A4F0071F675 /* LaunchScreen.storyboard */,
 				F853B26F22268A4F0071F675 /* Info.plist */,
 				F853B26722268A4D0071F675 /* Cat_Years.xcdatamodeld */,
+				F853B29122268AFC0071F675 /* cat_bitcoins.jpg */,
 			);
 			path = "Cat Years";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F853B26E22268A4F0071F675 /* LaunchScreen.storyboard in Resources */,
+				F853B29222268AFD0071F675 /* cat_bitcoins.jpg in Resources */,
 				F853B26B22268A4F0071F675 /* Assets.xcassets in Resources */,
 				F853B26622268A4D0071F675 /* Main.storyboard in Resources */,
 			);
